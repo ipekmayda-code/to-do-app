@@ -37,6 +37,10 @@ Mark tasks as completed when finished
 
 Delete tasks you no longer need
 
+## 📷 Screenshot
+
+![To Do App](screenshot.png)
+
 👩‍💻 Author
 
 İpek Mayda
